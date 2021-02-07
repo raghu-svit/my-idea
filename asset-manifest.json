@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-idea/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/my-idea/static/js/main.4f99ec19.chunk.js",
+    "main.js.map": "/my-idea/static/js/main.4f99ec19.chunk.js.map",
+    "runtime-main.js": "/my-idea/static/js/runtime-main.bb874279.js",
+    "runtime-main.js.map": "/my-idea/static/js/runtime-main.bb874279.js.map",
+    "static/js/2.abe97999.chunk.js": "/my-idea/static/js/2.abe97999.chunk.js",
+    "static/js/2.abe97999.chunk.js.map": "/my-idea/static/js/2.abe97999.chunk.js.map",
+    "static/js/3.fdb59770.chunk.js": "/my-idea/static/js/3.fdb59770.chunk.js",
+    "static/js/3.fdb59770.chunk.js.map": "/my-idea/static/js/3.fdb59770.chunk.js.map",
+    "index.html": "/my-idea/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/my-idea/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.abe97999.chunk.js.LICENSE.txt": "/my-idea/static/js/2.abe97999.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/my-idea/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb874279.js",
+    "static/js/2.abe97999.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.4f99ec19.chunk.js"
+  ]
+}
